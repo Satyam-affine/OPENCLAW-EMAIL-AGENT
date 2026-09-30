@@ -1,0 +1,102 @@
+{
+  "fallback": {
+    "category": "General / Other",
+    "recipient": "i-anshika.guleria@affine.ai",
+    "subject_prefix": "[General Inquiry]"
+  },
+  "rules": [
+    {
+      "category": "Standards & Regulations",
+      "recipient": "satyamr814@gmail.com",
+      "subject_prefix": "[Standards & Regulations]",
+      "keywords": [
+        "standards",
+        "clause",
+        "clauses",
+        "requirements",
+        "regulatory",
+        "regulation",
+        "compliance",
+        "ul standard",
+        "iec",
+        "iso",
+        "ul ",
+        "norm",
+        "code requirement"
+      ]
+    },
+    {
+      "category": "Certification",
+      "recipient": "doffysan001@gmail.com",
+      "subject_prefix": "[Certification]",
+      "keywords": [
+        "certification",
+        "certified",
+        "certificate",
+        "cert status",
+        "certification status",
+        "certification requirement",
+        "renewal",
+        "renew",
+        "product certification",
+        "approval status",
+        "listing"
+      ]
+    },
+    {
+      "category": "Testing & Laboratory",
+      "recipient": "i-satyam.raj@affine.ai",
+      "subject_prefix": "[Testing & Laboratory]",
+      "keywords": [
+        "test request",
+        "test plan",
+        "test plans",
+        "lab testing",
+        "laboratory",
+        "test result",
+        "test results",
+        "sample",
+        "samples",
+        "test requirement",
+        "testing",
+        "test report",
+        "lab report"
+      ]
+    },
+    {
+      "category": "Product & Technical Support",
+      "recipient": "i-mounika.s@affine.ai",
+      "subject_prefix": "[Product & Technical Support]",
+      "keywords": [
+        "product requirement",
+        "technical specification",
+        "specifications",
+        "spec",
+        "model",
+        "component",
+        "technical clarification",
+        "technical support",
+        "product support",
+        "datasheet",
+        "technical question"
+      ]
+    },
+    {
+      "category": "General / Other",
+      "recipient": "i-anshika.guleria@affine.ai",
+      "subject_prefix": "[General Inquiry]",
+      "keywords": [
+        "pricing",
+        "price",
+        "quote",
+        "sales",
+        "partnership",
+        "partner",
+        "general inquiry",
+        "complaint",
+        "billing",
+        "invoice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Flask
+pypdf
+python-docx
+fonttools>=4.0.0
+openai>=1.40.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+azure-storage-blob>=12.19.0
